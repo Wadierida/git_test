@@ -1,3 +1,3 @@
 # git_test
 my first Github repo!
-"Hello odin!"
+"Hello odin!" my name is wadie
